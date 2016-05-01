@@ -6,7 +6,7 @@ namespace rx;
 
 class justTryingOut
 {
-  public $test = 2;
+  public $test = 45;
   private $test = 3;
   define(TEST_CONSTANT, "TESTING");
 }
